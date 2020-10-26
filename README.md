@@ -36,3 +36,8 @@ MD5 checksum: D0342E7A77087B53C35C52D3A31604B0
 
 __Hall of Fame:__
   -  ...
+  
+<br>
+<br>
+
+**Note:** Don't forget to star it so you can solve it tomorrow :)
